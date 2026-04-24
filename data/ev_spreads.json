@@ -1,0 +1,485 @@
+{
+  "azumarill": [
+    {
+      "nome": "Belly Drum Sweep",
+      "item": "Sitrus Berry",
+      "ability": "Huge Power",
+      "natura": "Adamant",
+      "ev": {
+        "hp": 33,
+        "attack": 33,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 1
+      },
+      "nota": "Belly Drum + Sitrus per recovery e sweep con Aqua Jet/Play Rough"
+    },
+    {
+      "nome": "Bulky Trick Room",
+      "item": "Assault Vest",
+      "ability": "Huge Power",
+      "natura": "Brave",
+      "ev": {
+        "hp": 32,
+        "attack": 33,
+        "defense": 2,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "nota": "Slow attacker per TR, Aqua Jet utile anche fuori TR"
+    }
+  ],
+  "incineroar": [
+    {
+      "nome": "Bulky Pivot",
+      "item": "Sitrus Berry",
+      "ability": "Intimidate",
+      "natura": "Careful",
+      "ev": {
+        "hp": 33,
+        "attack": 0,
+        "defense": 1,
+        "specialAttack": 0,
+        "specialDefense": 33,
+        "speed": 0
+      },
+      "nota": "Intimidate + Fake Out + Parting Shot, supporto pivot"
+    },
+    {
+      "nome": "Tank Offensivo",
+      "item": "Safety Goggles",
+      "ability": "Intimidate",
+      "natura": "Careful",
+      "ev": {
+        "hp": 32,
+        "attack": 10,
+        "defense": 1,
+        "specialAttack": 0,
+        "specialDefense": 23,
+        "speed": 1
+      },
+      "nota": "Bilanciato attacco/difesa, immune a spore"
+    }
+  ],
+  "garchomp": [
+    {
+      "nome": "Scarf Sweeper",
+      "item": "Choice Scarf",
+      "ability": "Rough Skin",
+      "natura": "Jolly",
+      "ev": {
+        "hp": 1,
+        "attack": 33,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 33
+      },
+      "nota": "Outspeed con Scarf, Earthquake/Dragon Claw spam"
+    },
+    {
+      "nome": "Mixed Tank",
+      "item": "Life Orb",
+      "ability": "Rough Skin",
+      "natura": "Adamant",
+      "ev": {
+        "hp": 33,
+        "attack": 13,
+        "defense": 1,
+        "specialAttack": 0,
+        "specialDefense": 13,
+        "speed": 7
+      },
+      "nota": "Bulky Earthquake support, sopravvive a hit comuni"
+    }
+  ],
+  "dragapult": [
+    {
+      "nome": "Choice Specs",
+      "item": "Choice Specs",
+      "ability": "Cursed Body",
+      "natura": "Timid",
+      "ev": {
+        "hp": 1,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 33,
+        "specialDefense": 0,
+        "speed": 33
+      },
+      "nota": "Specs Shadow Ball/Draco Meteor, max speed"
+    },
+    {
+      "nome": "Mixed Sweeper",
+      "item": "Life Orb",
+      "ability": "Clear Body",
+      "natura": "Jolly",
+      "ev": {
+        "hp": 1,
+        "attack": 33,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 33
+      },
+      "nota": "Dragon Darts + U-turn, pivot offensivo"
+    }
+  ],
+  "tyranitar": [
+    {
+      "nome": "Trick Room AD",
+      "item": "Life Orb",
+      "ability": "Sand Stream",
+      "natura": "Brave",
+      "ev": {
+        "hp": 33,
+        "attack": 33,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 1,
+        "speed": 0
+      },
+      "nota": "Slow physical attacker sotto TR + sand support"
+    },
+    {
+      "nome": "Sand Bulky",
+      "item": "Assault Vest",
+      "ability": "Sand Stream",
+      "natura": "Sassy",
+      "ev": {
+        "hp": 33,
+        "attack": 1,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 33,
+        "speed": 0
+      },
+      "nota": "Special wall in sandstorm"
+    }
+  ],
+  "sneasler": [
+    {
+      "nome": "Unburden Sweeper",
+      "item": "White Herb",
+      "ability": "Unburden",
+      "natura": "Jolly",
+      "ev": {
+        "hp": 1,
+        "attack": 33,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 33
+      },
+      "nota": "Close Combat consuma White Herb -> Unburden raddoppia Speed"
+    }
+  ],
+  "kingambit": [
+    {
+      "nome": "Bulky Defiant",
+      "item": "Black Glasses",
+      "ability": "Defiant",
+      "natura": "Adamant",
+      "ev": {
+        "hp": 33,
+        "attack": 33,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 1,
+        "speed": 0
+      },
+      "nota": "Sucker Punch + Kowtow Cleave, baits Intimidate per +2 Atk"
+    }
+  ],
+  "sinistcha": [
+    {
+      "nome": "Trick Room Tank",
+      "item": "Sitrus Berry",
+      "ability": "Hospitality",
+      "natura": "Quiet",
+      "ev": {
+        "hp": 33,
+        "attack": 0,
+        "defense": 1,
+        "specialAttack": 33,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "nota": "Matcha Gotcha sotto TR, Hospitality cura partner"
+    }
+  ],
+  "farigiraf": [
+    {
+      "nome": "TR Setter",
+      "item": "Mental Herb",
+      "ability": "Armor Tail",
+      "natura": "Quiet",
+      "ev": {
+        "hp": 33,
+        "attack": 0,
+        "defense": 1,
+        "specialAttack": 33,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "nota": "Armor Tail blocca priority, Mental Herb anti-Taunt"
+    }
+  ],
+  "delphox": [
+    {
+      "nome": "Special Sweeper",
+      "item": "Life Orb",
+      "ability": "Magician",
+      "natura": "Timid",
+      "ev": {
+        "hp": 1,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 33,
+        "specialDefense": 0,
+        "speed": 33
+      },
+      "nota": "Heat Wave + Psyshock spam con max speed"
+    }
+  ],
+  "whimsicott": [
+    {
+      "nome": "Prankster Support",
+      "item": "Mental Herb",
+      "ability": "Prankster",
+      "natura": "Calm",
+      "ev": {
+        "hp": 33,
+        "attack": 0,
+        "defense": 1,
+        "specialAttack": 0,
+        "specialDefense": 33,
+        "speed": 0
+      },
+      "nota": "Tailwind + Encore + Helping Hand con priority"
+    }
+  ],
+  "basculegion": [
+    {
+      "nome": "Adaptability Wave Crash",
+      "item": "Mystic Water",
+      "ability": "Adaptability",
+      "natura": "Adamant",
+      "ev": {
+        "hp": 1,
+        "attack": 33,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 33
+      },
+      "nota": "Last Respects/Wave Crash con STAB raddoppiato"
+    }
+  ],
+  "corviknight": [
+    {
+      "nome": "Defensive Pivot",
+      "item": "Leftovers",
+      "ability": "Mirror Armor",
+      "natura": "Impish",
+      "ev": {
+        "hp": 33,
+        "attack": 0,
+        "defense": 33,
+        "specialAttack": 0,
+        "specialDefense": 1,
+        "speed": 0
+      },
+      "nota": "Bulky physical wall, Roost + U-turn"
+    }
+  ],
+  "dragonite": [
+    {
+      "nome": "Multiscale Setup",
+      "item": "Heavy-Duty Boots",
+      "ability": "Multiscale",
+      "natura": "Adamant",
+      "ev": {
+        "hp": 33,
+        "attack": 33,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 1,
+        "speed": 0
+      },
+      "nota": "Dragon Dance + Extreme Speed, Multiscale dimezza primo hit"
+    }
+  ],
+  "excadrill": [
+    {
+      "nome": "Sand Rush Sweeper",
+      "item": "Focus Sash",
+      "ability": "Sand Rush",
+      "natura": "Jolly",
+      "ev": {
+        "hp": 1,
+        "attack": 33,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 33
+      },
+      "nota": "Sand Rush raddoppia Speed in sandstorm"
+    }
+  ],
+  "hatterene": [
+    {
+      "nome": "Magic Bounce TR",
+      "item": "Sitrus Berry",
+      "ability": "Magic Bounce",
+      "natura": "Quiet",
+      "ev": {
+        "hp": 33,
+        "attack": 0,
+        "defense": 1,
+        "specialAttack": 33,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "nota": "TR + Dazzling Gleam, Magic Bounce blocca status"
+    }
+  ],
+  "gengar": [
+    {
+      "nome": "Special Sweeper",
+      "item": "Choice Specs",
+      "ability": "Cursed Body",
+      "natura": "Timid",
+      "ev": {
+        "hp": 1,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 33,
+        "specialDefense": 0,
+        "speed": 33
+      },
+      "nota": "Sludge Bomb + Shadow Ball spam, max speed"
+    }
+  ],
+  "gardevoir": [
+    {
+      "nome": "Mega Glass Cannon",
+      "item": "Gardevoirite",
+      "ability": "Pixilate",
+      "natura": "Timid",
+      "ev": {
+        "hp": 1,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 33,
+        "specialDefense": 0,
+        "speed": 33
+      },
+      "nota": "Pixilate Hyper Voice spread, Mega per Pixilate"
+    }
+  ],
+  "alakazam": [
+    {
+      "nome": "Magic Guard Sweeper",
+      "item": "Life Orb",
+      "ability": "Magic Guard",
+      "natura": "Timid",
+      "ev": {
+        "hp": 1,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 33,
+        "specialDefense": 0,
+        "speed": 33
+      },
+      "nota": "Magic Guard ignora recoil di Life Orb"
+    }
+  ],
+  "aerodactyl": [
+    {
+      "nome": "Tailwind Setter",
+      "item": "Focus Sash",
+      "ability": "Pressure",
+      "natura": "Jolly",
+      "ev": {
+        "hp": 1,
+        "attack": 33,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 33
+      },
+      "nota": "Tailwind + Stone Edge + Wide Guard, Sash sopravvive a 1 hit"
+    }
+  ],
+  "aegislash": [
+    {
+      "nome": "Stance Change",
+      "item": "Spooky Plate",
+      "ability": "Stance Change",
+      "natura": "Brave",
+      "ev": {
+        "hp": 33,
+        "attack": 33,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 1,
+        "speed": 0
+      },
+      "nota": "King's Shield + Iron Head, switch automatico Blade/Shield"
+    }
+  ],
+  "chesnaught": [
+    {
+      "nome": "Bulletproof Tank",
+      "item": "Rocky Helmet",
+      "ability": "Bulletproof",
+      "natura": "Adamant",
+      "ev": {
+        "hp": 33,
+        "attack": 33,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 1,
+        "speed": 0
+      },
+      "nota": "Spiky Shield + Body Press, immune a Shadow Ball/Sludge Bomb"
+    }
+  ],
+  "clefable": [
+    {
+      "nome": "Magic Guard Wall",
+      "item": "Leftovers",
+      "ability": "Magic Guard",
+      "natura": "Modest",
+      "ev": {
+        "hp": 33,
+        "attack": 0,
+        "defense": 1,
+        "specialAttack": 33,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "nota": "Moonblast spam, Magic Guard immune a status damage"
+    }
+  ],
+  "conkeldurr": [
+    {
+      "nome": "Drain Punch Tank",
+      "item": "Flame Orb",
+      "ability": "Guts",
+      "natura": "Brave",
+      "ev": {
+        "hp": 33,
+        "attack": 33,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 1,
+        "speed": 0
+      },
+      "nota": "Flame Orb + Guts boosta Atk, Drain Punch recupera HP"
+    }
+  ]
+}

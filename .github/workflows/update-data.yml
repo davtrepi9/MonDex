@@ -1,0 +1,51 @@
+name: Update MonDex data
+
+on:
+  schedule:
+    # Ogni lunedì alle 03:00 UTC
+    - cron: '0 3 * * 1'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'full | quick'
+        required: false
+        default: 'quick'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install deps
+        run: pip install requests
+
+      - name: Run updater
+        working-directory: scripts
+        run: |
+          MODE="${{ github.event.inputs.mode || 'quick' }}"
+          if [ "$MODE" = "full" ]; then
+            python update_all.py
+          else
+            python update_all.py --quick
+          fi
+
+      - name: Commit changes
+        run: |
+          git config user.name "MonDex Bot"
+          git config user.email "[email protected]"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "Nessun cambio nei dati"
+          else
+            git commit -m "chore: auto-update data ($(date -u +%Y-%m-%d))"
+            git push
+          fi

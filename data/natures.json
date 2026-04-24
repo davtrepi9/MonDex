@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "nome": "Hardy",
+    "stat_aumentata": null,
+    "stat_diminuita": null,
+    "gusto_preferito": null,
+    "gusto_odiato": null
+  },
+  {
+    "id": 2,
+    "nome": "Bold",
+    "stat_aumentata": "defense",
+    "stat_diminuita": "attack",
+    "gusto_preferito": "sour",
+    "gusto_odiato": "spicy"
+  },
+  {
+    "id": 3,
+    "nome": "Modest",
+    "stat_aumentata": "special-attack",
+    "stat_diminuita": "attack",
+    "gusto_preferito": "dry",
+    "gusto_odiato": "spicy"
+  },
+  {
+    "id": 4,
+    "nome": "Calm",
+    "stat_aumentata": "special-defense",
+    "stat_diminuita": "attack",
+    "gusto_preferito": "bitter",
+    "gusto_odiato": "spicy"
+  },
+  {
+    "id": 5,
+    "nome": "Timid",
+    "stat_aumentata": "speed",
+    "stat_diminuita": "attack",
+    "gusto_preferito": "sweet",
+    "gusto_odiato": "spicy"
+  },
+  {
+    "id": 6,
+    "nome": "Lonely",
+    "stat_aumentata": "attack",
+    "stat_diminuita": "defense",
+    "gusto_preferito": "spicy",
+    "gusto_odiato": "sour"
+  },
+  {
+    "id": 7,
+    "nome": "Docile",
+    "stat_aumentata": null,
+    "stat_diminuita": null,
+    "gusto_preferito": null,
+    "gusto_odiato": null
+  },
+  {
+    "id": 8,
+    "nome": "Mild",
+    "stat_aumentata": "special-attack",
+    "stat_diminuita": "defense",
+    "gusto_preferito": "dry",
+    "gusto_odiato": "sour"
+  },
+  {
+    "id": 9,
+    "nome": "Gentle",
+    "stat_aumentata": "special-defense",
+    "stat_diminuita": "defense",
+    "gusto_preferito": "bitter",
+    "gusto_odiato": "sour"
+  },
+  {
+    "id": 10,
+    "nome": "Hasty",
+    "stat_aumentata": "speed",
+    "stat_diminuita": "defense",
+    "gusto_preferito": "sweet",
+    "gusto_odiato": "sour"
+  },
+  {
+    "id": 11,
+    "nome": "Adamant",
+    "stat_aumentata": "attack",
+    "stat_diminuita": "special-attack",
+    "gusto_preferito": "spicy",
+    "gusto_odiato": "dry"
+  },
+  {
+    "id": 12,
+    "nome": "Impish",
+    "stat_aumentata": "defense",
+    "stat_diminuita": "special-attack",
+    "gusto_preferito": "sour",
+    "gusto_odiato": "dry"
+  },
+  {
+    "id": 13,
+    "nome": "Bashful",
+    "stat_aumentata": null,
+    "stat_diminuita": null,
+    "gusto_preferito": null,
+    "gusto_odiato": null
+  },
+  {
+    "id": 14,
+    "nome": "Careful",
+    "stat_aumentata": "special-defense",
+    "stat_diminuita": "special-attack",
+    "gusto_preferito": "bitter",
+    "gusto_odiato": "dry"
+  },
+  {
+    "id": 15,
+    "nome": "Rash",
+    "stat_aumentata": "special-attack",
+    "stat_diminuita": "special-defense",
+    "gusto_preferito": "dry",
+    "gusto_odiato": "bitter"
+  },
+  {
+    "id": 16,
+    "nome": "Jolly",
+    "stat_aumentata": "speed",
+    "stat_diminuita": "special-attack",
+    "gusto_preferito": "sweet",
+    "gusto_odiato": "dry"
+  },
+  {
+    "id": 17,
+    "nome": "Naughty",
+    "stat_aumentata": "attack",
+    "stat_diminuita": "special-defense",
+    "gusto_preferito": "spicy",
+    "gusto_odiato": "bitter"
+  },
+  {
+    "id": 18,
+    "nome": "Lax",
+    "stat_aumentata": "defense",
+    "stat_diminuita": "special-defense",
+    "gusto_preferito": "sour",
+    "gusto_odiato": "bitter"
+  },
+  {
+    "id": 19,
+    "nome": "Quirky",
+    "stat_aumentata": null,
+    "stat_diminuita": null,
+    "gusto_preferito": null,
+    "gusto_odiato": null
+  },
+  {
+    "id": 20,
+    "nome": "Naive",
+    "stat_aumentata": "speed",
+    "stat_diminuita": "special-defense",
+    "gusto_preferito": "sweet",
+    "gusto_odiato": "bitter"
+  },
+  {
+    "id": 21,
+    "nome": "Brave",
+    "stat_aumentata": "attack",
+    "stat_diminuita": "speed",
+    "gusto_preferito": "spicy",
+    "gusto_odiato": "sweet"
+  },
+  {
+    "id": 22,
+    "nome": "Relaxed",
+    "stat_aumentata": "defense",
+    "stat_diminuita": "speed",
+    "gusto_preferito": "sour",
+    "gusto_odiato": "sweet"
+  },
+  {
+    "id": 23,
+    "nome": "Quiet",
+    "stat_aumentata": "special-attack",
+    "stat_diminuita": "speed",
+    "gusto_preferito": "dry",
+    "gusto_odiato": "sweet"
+  },
+  {
+    "id": 24,
+    "nome": "Sassy",
+    "stat_aumentata": "special-defense",
+    "stat_diminuita": "speed",
+    "gusto_preferito": "bitter",
+    "gusto_odiato": "sweet"
+  },
+  {
+    "id": 25,
+    "nome": "Serious",
+    "stat_aumentata": null,
+    "stat_diminuita": null,
+    "gusto_preferito": null,
+    "gusto_odiato": null
+  }
+]
