@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-09-21T08:41:25.033791Z",
+  "updated_at": "2026-09-28T09:29:20.916803Z",
   "files": {
-    "pokedex_data.json": {
-      "size": 1254306,
-      "modified": "2026-09-21T08:41:20.720891Z"
-    },
-    "items.json": {
-      "size": 685727,
-      "modified": "2026-09-21T08:41:20.716891Z"
-    },
     "abilities.json": {
       "size": 83186,
-      "modified": "2026-09-21T08:41:20.715891Z"
-    },
-    "natures.json": {
-      "size": 4255,
-      "modified": "2026-09-21T08:41:20.718891Z"
-    },
-    "pokemon_movesets.json": {
-      "size": 7084453,
-      "modified": "2026-09-21T08:41:20.729891Z"
+      "modified": "2026-09-28T09:29:17.510413Z"
     },
     "moves.json": {
       "size": 527220,
-      "modified": "2026-09-21T08:41:20.718891Z"
-    },
-    "ev_spreads.json": {
-      "size": 10850,
-      "modified": "2026-09-21T08:41:25.033473Z"
+      "modified": "2026-09-28T09:29:17.513253Z"
     },
     "champions_teams.json": {
       "size": 2,
-      "modified": "2026-09-21T08:41:25.033613Z"
+      "modified": "2026-09-28T09:29:20.916497Z"
+    },
+    "items.json": {
+      "size": 685727,
+      "modified": "2026-09-28T09:29:17.511253Z"
+    },
+    "ev_spreads.json": {
+      "size": 10850,
+      "modified": "2026-09-28T09:29:20.916651Z"
+    },
+    "pokemon_movesets.json": {
+      "size": 7084453,
+      "modified": "2026-09-28T09:29:17.525253Z"
+    },
+    "pokedex_data.json": {
+      "size": 1254306,
+      "modified": "2026-09-28T09:29:17.516253Z"
+    },
+    "natures.json": {
+      "size": 4255,
+      "modified": "2026-09-28T09:29:17.513253Z"
     },
     "champions_data.json": {
       "size": 2,
-      "modified": "2026-09-21T08:41:25.033736Z"
+      "modified": "2026-09-28T09:29:20.916759Z"
     }
   }
 }
